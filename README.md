@@ -1,2 +1,2 @@
 # curso-de-php
-PHP para Iniciantes, aprender os primeiros passos.
+PHP para Iniciantes, primeiros passos.
